@@ -30,8 +30,8 @@ There is also a notebook demo ```Colab_GUAP.ipynb```, which can be run on the Co
 
 ## Experimental results:
 
-<img src="https://github.com/YanghaoZYH/GUAP/blob/master/savefig/Cifar10.png" width="70%">
+<img src="https://github.com/TrustAI/GUAP/blob/master/savefig/Cifar10.png" width="70%">
 
-<img src="https://github.com/YanghaoZYH/GUAP/blob/master/savefig/ImageNet.png" width="71%">
+<img src="https://github.com/TrustAI/GUAP/blob/master/savefig/ImageNet.png" width="71%">
 
 
